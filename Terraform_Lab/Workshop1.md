@@ -91,3 +91,4 @@ terraform apply
 ```sh
 terraform destroy
 ```
+![image](https://github.com/user-attachments/assets/efb19fe9-3264-4d38-9a81-712be1a84977)
