@@ -311,3 +311,4 @@ terraform apply
 ```bash
 terraform destroy
 ```
+![image](https://github.com/user-attachments/assets/f08d8acd-738f-4ccc-ad55-230d506ed974)
