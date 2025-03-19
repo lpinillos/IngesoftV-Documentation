@@ -37,18 +37,21 @@ az login
 ```sh
 terraform init
 ```
+![image](https://github.com/user-attachments/assets/a18e8ba4-19a3-469e-9b82-7e98203b81d7)
 
 ### 5. Validar la configuración de Terraform
 
 ```sh
 terraform validate
 ```
+![image](https://github.com/user-attachments/assets/98dbe511-93d4-4d77-ac99-85798b9596ff)
 
 ### 6. Ver el plan de ejecución
 
 ```sh
 terraform plan
 ```
+![image](https://github.com/user-attachments/assets/d82937fa-c412-4683-b546-58724b8b8b40)
 
 ### 7. Obtener el ID de la suscripción de Azure
 
@@ -67,12 +70,14 @@ Edita el archivo `main.tf` y agrega la siguiente línea debajo de `features`:
 ```hcl
 subscription_id = "TU_CODIGO"
 ```
+![image](https://github.com/user-attachments/assets/dc2a5c67-cd15-40f9-9fdb-a9246b5a48f2)
 
 ### 9. Verificar el plan de ejecución nuevamente
 
 ```sh
 terraform plan
 ```
+![image](https://github.com/user-attachments/assets/6ce5dafe-e5dd-448d-b990-a2af84b21fab)
 
 ### 10. Aplicar la configuración
 
