@@ -84,4 +84,6 @@ terraform plan
 ```sh
 terraform apply
 ```
+![image](https://github.com/user-attachments/assets/3d1831ff-cd09-49d5-aecd-450eb0e5d20f)
+![image](https://github.com/user-attachments/assets/692ef8ab-6382-4b6c-a69e-2280ea7a9884)
 
