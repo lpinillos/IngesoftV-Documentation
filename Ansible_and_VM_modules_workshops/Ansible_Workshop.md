@@ -118,9 +118,10 @@ ansible-playbook -i inventory/hosts.ini playbooks/run_container.yml
 ### **3️ Acceder al juego desde el navegador**
 Abre la siguiente dirección en tu navegador:
 ```
-http://13.95.88.126:8787
+http://13.94.143.36:8787
 ```
-![image](https://github.com/user-attachments/assets/8dbc6c33-5584-4c70-8eca-b5d61d8f47eb)
+![image](https://github.com/user-attachments/assets/821e452b-890d-4d55-a1ce-35fdfd0d113d)
 
-> **Nota:** Sustituye `23.97.228.22` por la dirección IP pública de tu máquina virtual.
+
+> **Nota:** Sustituye `13.94.143.36` por la dirección IP pública de tu máquina virtual.
 
