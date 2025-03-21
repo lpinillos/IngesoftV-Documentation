@@ -87,7 +87,7 @@ El playbook `playbooks/run_container.yml` lanza el rol `docker_container`, que s
 El archivo `roles/docker_container/tasks/main.yml` contiene las instrucciones necesarias.
 
 ```yaml
-- name: Iniciar el contenedor de Super Mario
+- name: Ejecutar Mario Bros
   docker_container:
     name: supermario-container
     image: "pengbai/docker-supermario:latest"
