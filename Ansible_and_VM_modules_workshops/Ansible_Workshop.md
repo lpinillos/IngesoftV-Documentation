@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be21634b-d13f-4110-8374-e782584ea3bc)# Guía para el Despliegue de Super Mario con Ansible y Docker
+# Guía para el Despliegue de Super Mario con Ansible y Docker
 
 Este documento describe cómo utilizar **Ansible** para automatizar la instalación de Docker y desplegar un contenedor con el juego **Super Mario Bros** en una máquina virtual de Azure.
 
